@@ -101,15 +101,9 @@ p {
 
 main {
   margin: 0 auto;
-  padding: 3rem 6rem;
 }
 
 /*page responsiveness*/
-@media (min-width: 375px) {
-  html {
-    font-size: 43.75%;
-  }
-}
 
 @media (min-width: 683px) {
   html {
